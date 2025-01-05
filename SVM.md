@@ -1,5 +1,4 @@
-
-# Support Vector Machine (SVM) Project
+# Support Vector Machine (SVM)
 
 ## Overview
 
